@@ -25,8 +25,8 @@ body
 .user-box img
 {
     border-radius: 50%;
-    width: 300px;
-    height: 350px;
+    width: 250px;
+    height: 300px;
     border: 2px solid #ecaed5;
 }
 .user-box h1
