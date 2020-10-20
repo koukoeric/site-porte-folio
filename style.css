@@ -5,7 +5,7 @@ body
     font-family: sans-serif;
 }
 
-/*--------------Header CCS-------------*/
+/*--------------Header CCS
 #header
 {
     height: 94vh;
@@ -71,7 +71,9 @@ body
         transform: translateY(10px);
     }
 }
+-------------*/
 /*------------------About----------------*/
+
 .about
 {
     padding-top: 100px;
